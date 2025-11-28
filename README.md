@@ -270,7 +270,7 @@ class Meta {
 
 ## License
 
-This module is part of the Owdan project and can be reused in other projects with proper attribution.
+This module is free to use and can be reused in any project.
 
 ## Notes
 
@@ -282,4 +282,3 @@ This module is part of the Owdan project and can be reused in other projects wit
 ## Support
 
 For issues or questions, please refer to the main project documentation.
-
